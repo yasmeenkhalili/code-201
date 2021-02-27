@@ -9,5 +9,5 @@ This table contains some of links that help you in **softwaring**.
 
 | Title      | Link |
 | ----------- | ----------- |
-| Html & JavaScript  |(https://yasmeenkhalili.github.io/code-201/reading-notes/class-01)[class-01]|
+| Html & JavaScript  |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-01](class-01)|
 
