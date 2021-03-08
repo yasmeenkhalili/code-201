@@ -15,4 +15,5 @@ This table contains some of links that help you in **softwaring**.
 | Class-04 |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-04](class-04)|
 | Class-05 |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-05](class-05)|
 | Class-06 |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-06](class-06)|
+| Class-07 |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-07](class-07)|
 
