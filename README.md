@@ -22,4 +22,6 @@ This table contains some of links that help you in **softwaring**.
 | Class-11 |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-11](class-11)|
 | Class-12 |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-12](class-12)|
 | Class-13 |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-13](class-13)|
+| Class-14a |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-14a](class-14a)|
+| Class-14b |[https://yasmeenkhalili.github.io/code-201/reading-notes/class-14b](class-14b)|
 
